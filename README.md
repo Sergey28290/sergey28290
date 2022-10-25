@@ -18,5 +18,3 @@
 ![HTML](https://img.shields.io/badge/-HTML-CFD0D2?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS](https://img.shields.io/badge/-CSS-CFD0D2?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![Bash](https://img.shields.io/badge/-Bash-CFD0D2?style=for-the-badge&logo=gnubash&logoColor=4EAA25)
-
-Follow Me
