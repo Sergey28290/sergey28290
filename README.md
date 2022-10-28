@@ -9,6 +9,7 @@
 ![Postman](https://img.shields.io/badge/-Postman-CFD0D2?style=for-the-badge&logo=postman&logoColor=FF6C37)
 ![Swagger](https://img.shields.io/badge/-Swagger-CFD0D2?style=for-the-badge&logo=swagger&logoColor=85EA2D)
 ![Selenium](https://img.shields.io/badge/-Selenium-CFD0D2?style=for-the-badge&logo=selenium&logoColor=43B02A)
+
 ![Pytest](https://img.shields.io/badge/-Pytest-CFD0D2?style=for-the-badge&logo=pytest&logoColor=0A9EDC)
 ![GIT](https://img.shields.io/badge/-GIT-CFD0D2?style=for-the-badge&logo=git&logoColor=F05032)
 ![Jira](https://img.shields.io/badge/-Jira-CFD0D2?style=for-the-badge&logo=jira&logoColor=0052CC)
